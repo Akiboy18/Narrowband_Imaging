@@ -14,12 +14,22 @@ Astronomical detectors record light in individual wavelength filters rather than
 The workflow demonstrates how professional astronomical imagery is produced from raw telescope data.
 
 ---
+# JWST Filter Images
 
-# Demo / Screenshot
+<p align="center">
+<img src="Tarantula_Nebula_090W.jpg" width="700">
+</p>
+<p align="center"><em>Tarantula Nebula – JWST Filter F090W</em></p>
 
-![Narrowband Composite](NGC_2070/Tarantula%Nebula%090W.jpg)
+<p align="center">
+<img src="Tarantula_Nebula_200W.jpg" width="700">
+</p>
+<p align="center"><em>Tarantula Nebula – JWST Filter F200W</em></p>
 
----
+<p align="center">
+<img src="Tarantula_Nebula_187N.jpg" width="700">
+</p>
+<p align="center"><em>Tarantula Nebula – JWST Filter F187N</em></p>
 
 # Features
 
@@ -61,7 +71,7 @@ The workflow demonstrates how professional astronomical imagery is produced from
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/narrowband-imaging.git
+git clone https://github.com/Akiboy18/Narrowband_Imaging.git
 
 # Navigate into the repository
 cd narrowband-imaging
@@ -101,32 +111,39 @@ To reproduce the results:
 
 ---
 
-# Repository Structure
 
-```
-Narrowband_Imaging
-│
-├── images
-│   └── final_composite.png
-│
-├── data
-│   └── fits_files
-│
-└── README.md
-```
 
 ---
 
 # References
 
-MAST Portal
+* MAST Portal
 https://mast.stsci.edu
 
-FITS Liberator
+* FITS Liberator
 https://noirlab.edu/public/products/fitsliberator/
 
-NASA Hubble Archive
+* NASA Hubble Archive
 https://hla.stsci.edu
 
-# Run the app
-npm start
+* Rodrigo, C., Cruz, P., Aguilar, J.F., et al. 2024
+  https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..93R/abstract
+
+* Rodrigo, C., Solano, E., Bayo, A., 2012
+  *The SVO Filter Profile Service*
+  https://ui.adsabs.harvard.edu/abs/2012ivoa.rept.1015R/abstract
+
+* Rodrigo, C., Solano, E., 2020
+  *The SVO Filter Profile Service*
+  https://ui.adsabs.harvard.edu/abs/2020sea..confE.182R/abstract
+
+
+# Acknowledgement
+
+This research has made use of the **SVO Filter Profile Service "Carlos Rodrigo"**, funded by **MCIN/AEI/10.13039/501100011033/** through grant **PID2023-146210NB-I00**.
+
+If you use the SVO Filter Profile Service in your research, please acknowledge it using the statement above.
+
+---
+
+
