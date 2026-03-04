@@ -22,15 +22,14 @@ The workflow demonstrates how professional astronomical imagery is produced from
 <p align="center"><em>Tarantula Nebula – JWST Filter F090W</em></p>
 
 <p align="center">
-<img src="Tarantula_Nebula_200W.jpg" width="700">
-</p>
-<p align="center"><em>Tarantula Nebula – JWST Filter F200W</em></p>
-
-<p align="center">
 <img src="Tarantula_Nebula_187N.jpg" width="700">
 </p>
 <p align="center"><em>Tarantula Nebula – JWST Filter F187N</em></p>
 
+<p align="center">
+<img src="NGC_2070/NGC2070.jpg" width="700">
+</p>
+<p align="center"><em>Tarantula Nebula – Final Output</em></p>
 # Features
 
 * **MAST Data Retrieval**
