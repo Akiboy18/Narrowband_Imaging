@@ -17,7 +17,7 @@ The workflow demonstrates how professional astronomical imagery is produced from
 
 # Demo / Screenshot
 
-![Narrowband Composite](NGC2070/Tarantula Nebula 090W.jpg)
+![Narrowband Composite](NGC_2070/Tarantula%Nebula%090W.jpg)
 
 ---
 
