@@ -30,6 +30,7 @@ The workflow demonstrates how professional astronomical imagery is produced from
 <img src="NGC_2070/NGC2070.jpg" width="700">
 </p>
 <p align="center"><em>Tarantula Nebula – Final Output</em></p>
+
 # Features
 
 * **MAST Data Retrieval**
